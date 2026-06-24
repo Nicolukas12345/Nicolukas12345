@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **velozapinzonjosenicolas@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/nicolasveloza/
 <p align="left">
 </p>
 
