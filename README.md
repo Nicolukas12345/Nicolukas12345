@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Veloza</h1>
-<h3 align="center">Hi! I'm a developer passionate about creating engaging websites, multiple years experience in IT I enjoy learning new technologies, solving problems, and building projects that make an impact.</h3>
+<h3 align="center">Hi! I'm a developer passionate about creating engaging websites with multiple years experience in IT I enjoy learning new technologies, solving problems, and building projects that make an impact in the community.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolukas12345&label=Profile%20views&color=0e75b6&style=flat" alt="nicolukas12345" /> </p>
 
