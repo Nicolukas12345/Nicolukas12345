@@ -1,16 +1,59 @@
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">Systems-minded engineer who builds tools that remove friction for real teams. With a great interest in AI, a proven track record of detail-oriented implementations of front-end and back-end web applications.</h3>
+<a id="readme-top"></a>
 
-- 👨‍💻 All of my projects are available at [https://nicolasveloza.netlify.app/](https://nicolasveloza.netlify.app/)
+<div align="center">
+  <h1 align="center">Welcome to My GitHub Profile</h1>
+  <p align="center">
+    A showcase of my coding journey and web development projects.
+    <br />
+    <a href="https://github.com/Nicolukas12345" target="_blank"><strong>Explore My Work</strong></a>
+  </p>
+</div>
 
-- 💬 Ask me about **React**
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-- 📫 How to reach me **velozapinzonjosenicolas@gmail.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/nicolasveloza/
-<p align="left">
-</p>
+Hi! I'm a developer passionate about creating engaging web experiences. I enjoy learning new technologies, solving problems, and building projects that make an impact.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+My repositories showcase my growth as a developer and my dedication to the craft of web development.
 
+<p align="right"><a href="#readme-top">back to top</a></p>
+
+## Skills
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+<p align="right"><a href="#readme-top">back to top</a></p>
+
+## Projects
+
+Check out my repositories to see a variety of projects ranging from games to API integrations to themed websites.
+
+<p align="right"><a href="#readme-top">back to top</a></p>
+
+## Roadmap
+
+- [x] Build foundational web skills
+- [x] Create diverse projects
+- [x] Learn API integration
+- [ ] Expand skill set
+- [ ] Contribute to open source
+
+<p align="right"><a href="#readme-top">back to top</a></p>
+
+## Contact
+
+- GitHub: [Nicolukas12345](https://github.com/Nicolukas12345)
+
+<p align="right"><a href="#readme-top">back to top</a></p>
