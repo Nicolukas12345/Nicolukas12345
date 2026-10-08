@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolukas12345&label=Profile%20views&color=0e75b6&style=flat" alt="nicolukas12345" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/nicholukas" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/nicholukas?logo=twitter&style=for-the-badge" alt="https://x.com/nicholukas" /></a> </p>
-
 - 🌱 I’m currently learning **React, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://nicolasveloza.netlify.app/](https://nicolasveloza.netlify.app/)
