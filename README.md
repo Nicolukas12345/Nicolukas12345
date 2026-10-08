@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vTDdr-tHRvUqCsLlUHvA0mtkAywMtybM2cE6Asx44KwG9El74VPbrIoY3Rk3CoQHwbPTuLhtH0H38y8/pub](https://docs.google.com/document/d/e/2PACX-1vTDdr-tHRvUqCsLlUHvA0mtkAywMtybM2cE6Asx44KwG9El74VPbrIoY3Rk3CoQHwbPTuLhtH0H38y8/pub)
 
-- ⚡ Fun fact **I refuse to not use vim when coding. jk jk**
+- ⚡ Fun fact **I refuse to not use Vim when coding. jk jk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
